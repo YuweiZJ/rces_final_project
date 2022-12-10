@@ -1,5 +1,5 @@
 # rces_final_project
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/YuweiZJ/rces_final_project/HEAD?labpath=YuweiZJ.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/YuweiZJ/rces_final_project/main?labpath=YuweiZJ.ipynb)
 
 # Final Project Description
 ## Background and Scientific Question:
