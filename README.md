@@ -1,5 +1,5 @@
 # rces_final_project
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/YuweiZJ/rces_final_project/main?labpath=YuweiZJ.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pangeo-data/pangeo-docker-images/2022.09.21?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252FYuweiZJ%252Frces_final_project%26urlpath%3Dlab%252Ftree%252Frces_final_project%252FYuweiZJ.ipynb%26branch%3Dmain)
 
 # Final Project Description
 ## Background and Scientific Question:
